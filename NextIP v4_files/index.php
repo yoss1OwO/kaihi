@@ -1,0 +1,3 @@
+/*! PV数計測ツール / (c) 2021 ActiveTK. */
+typeof console.log==='function'&&console.log("\n\n%cATK-PV / PV数計測ツール\n%cCopyright (c) 2021 ActiveTK. All rights reserved.\nhttps://www.activetk.cf/pv/\n\n","color:green;font-size:large;font-weight:bold;","");console.log({"token":"kaihicfhome","hostname":"kaihi.cf","uri":"/","info-start":"20210617","info-today":"20220113","pv-total":"34580","pv-today":"249","pv-yesterday":"256","user-total":"12579","user-today":"96","user-yesterday":"80"});
+/****/
